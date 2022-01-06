@@ -35,6 +35,7 @@ Follow these platlists if you are interested
 
 
 <a href="https://www.youtube.com/playlist?list=PL9myac9mW281RV738DvvTDnJSiA26kfUq" target="_blank">Android App Development Using Kotlin</a>
+
 <a href="https://www.youtube.com/playlist?list=PL9myac9mW280H4tlH1eqX8rdzIhe13W9X" target="_blank">Android App with PHP MySQL Server</a>
 
 A<p align="center">
@@ -42,9 +43,6 @@ A<p align="center">
   <h3 align="center">Github README YouTube Stats</h3>
 
   <p align="center">
-    Youtube stats badges for your Github profile README
-    <br />
-    <br />
     <a href="https://www.youtube.com/channel/UCIxEgFbGBnrRn_VWAiny8jQ?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
     <a href="https://www.youtube.com/channel/UCIxEgFbGBnrRn_VWAiny8jQ">
