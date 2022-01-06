@@ -38,7 +38,9 @@ Follow these platlists if you are interested
 
 <a href="https://www.youtube.com/playlist?list=PL9myac9mW280H4tlH1eqX8rdzIhe13W9X" target="_blank">Android App with PHP MySQL Server</a>
 
-A<p align="center">
+---
+
+<p align="center">
   <img src="https://i.imgur.com/0QRyKo9.png" width="100px"/>
   <h3 align="center">Github README YouTube Stats</h3>
 
