@@ -36,6 +36,7 @@ Follow these platlists if you are interested
 
 
 <a href="https://www.youtube.com/playlist?list=PL9myac9mW281Jea82INGR-Gy00RlT7OBB" taget="_blank">Natural Language Processing</a>
+<br>
 <a href="https://www.youtube.com/playlist?list=PL9myac9mW281RV738DvvTDnJSiA26kfUq" target="_blank">Android App Development Using Kotlin</a>
 
 
@@ -47,9 +48,9 @@ Follow these platlists if you are interested
 
   <p align="center">
     <a href="https://www.youtube.com/channel/UCIxEgFbGBnrRn_VWAiny8jQ?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>277</a> 
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
     <a href="https://www.youtube.com/channel/UCIxEgFbGBnrRn_VWAiny8jQ">
-      <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>41520</a>
+      <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
   </p>
 </p>
 
